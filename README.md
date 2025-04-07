@@ -4,7 +4,7 @@ This repository contains a deep learning-based solution for **traffic sign detec
 
 ## 📁 Project Structure
 
-- `traffic_sign_detection.py`:  
+- `traffic_sign_detector.py`:  
   Core script for detecting and classifying traffic signs using a Convolutional Neural Network (CNN).
 
 ## 🧠 Technologies Used
